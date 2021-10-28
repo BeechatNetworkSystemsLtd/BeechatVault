@@ -9,7 +9,8 @@
 Beechat Vault tag is an NFC tag consisting of:
 * High efficiency multi-layer custom NFC 13.56 MHz antenna,
 * M24SR64-Y ST-Microelectronics IC,
-* Super small 5x5 mm size.
+* Super small 9.7mm x 9.7mm x 1.4mm size.
+* 200 year data retention rate
 
 The idea arose as we needed a low-cost way to store many private keys, securely. Our post-quantum private keys are very large (>1KiB) so we couldn't use common tags on the market (such as NTAG213). 
 
@@ -22,10 +23,11 @@ __Features__
 Feature Name | Value |
 | ------ | ------ | 
 |Read range | 20 mm | test | 
-|Dimensions | 5x5x1mm | 
+|Dimensions | 9.7mm x 9.7mm x 1.4mm | 
 |Data retention | 200 years | 
 |Storage capacity | 8 KiB | 
 |Password size | 128-bit | 
+
 
 
 Image
