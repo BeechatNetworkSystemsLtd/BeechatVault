@@ -1,0 +1,9 @@
+G04 NI AWR Design Environment 14.04 *
+G04 RS274-X Output Version 0.1 *
+%FSLAX36Y36*%
+%MOMM*%
+%SFA1B1*%
+%ADD10C,.010*%
+
+M02*
+G04 End of Data *
