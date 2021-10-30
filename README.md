@@ -14,7 +14,7 @@ Beechat Vault tag is an NFC tag consisting of:
 The idea arose as we needed a low-cost way to store many private keys, securely. Our post-quantum private keys are very large (>1KiB) so we couldn't use common tags on the market (such as NTAG213). With the Beechat Vault tag, we can store 2 post-quantum keypairs, or 256 Bitcoin/Ethereum private keys protected with AES-128.
 
 
-[Access Beechat Vault datasheet](https://github.com/BeechatNetworkSystemsLtd/BeechatVault/raw/main/Beechat%20Vault%20NA_V2_P%20-%20Technical%20sheet.pdf)
+[Access Beechat Vault datasheet](https://github.com/BeechatNetworkSystemsLtd/BeechatVault/raw/main/Beechat_Vault-NA_V2_P-Specification_sheet.pdf)
 -------------------
 
 __Features__ 
