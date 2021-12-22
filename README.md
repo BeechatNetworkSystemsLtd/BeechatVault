@@ -25,17 +25,18 @@ Feature Name | Value |
 |Dimensions | 9.7mm x 9.7mm x 1.4mm | 
 |Data retention | 200 years | 
 |Storage capacity | 8 KiB | 
-|Password size | 128-bit | 
+|Hardware password size | 128-bit | 
+|IP Rating | 65 (fully waterproof up to 1 metre underwater at 20C)
 
 __Versions__
 * NA_V2_P: Version 2.0, without protection capacitance and smallest size
-* NA_V3: Version 3.0, includes larger antenna and protection capacitance
+* NA_V3_N: Version 3.0, includes larger antenna and protection capacitance
 
 
 Image
 -------------------
-![image](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatVault/main/NA_V2_P/vault-render.png)
-_Beechat Vault Revision NA_V2_P pictured above_
+![image](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatVault/main/NA_V3_N/NA_V3_render.png)
+_Beechat Vault Revision NA_V3_N pictured above_
 
 License Information
 -------------------
