@@ -36,6 +36,7 @@ __Versions__
 Image
 -------------------
 ![image](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatVault/main/NA_V3_N/NA_V3_render.png)
+
 _Beechat Vault Revision NA_V3_N pictured above_
 
 License Information
