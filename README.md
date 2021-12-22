@@ -21,7 +21,7 @@ __Current Version Features__
 
 Feature Name | Value |
 | ------ | ------ | 
-|Read range | 20 mm | test | 
+|Read range | 27 mm | 
 |Dimensions | 9.7mm x 9.7mm x 1.4mm | 
 |Data retention | 200 years | 
 |Storage capacity | 8 KiB | 
