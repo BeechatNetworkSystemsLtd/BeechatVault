@@ -30,7 +30,7 @@ Feature Name | Value |
 
 __Versions__
 * NA_V2_P: Version 2.0, without protection capacitance and smallest size
-* NA_V3_N: Version 3.0, includes larger antenna and protection capacitance
+* NA_V3_N: Version 3.0, includes larger antenna, protection capacitance, and waterproof enclosure
 
 
 Image
