@@ -11,7 +11,7 @@ Beechat Vault tag is an NFC tag consisting of:
 * M24SR64-Y ST-Microelectronics IC,
 * Super small 9.7mm x 9.7mm x 1.4mm size.
 
-The idea arose as we needed a low-cost way to store many private keys, securely. Our post-quantum private keys are very large (>1KiB) so we couldn't use common tags on the market (such as NTAG213). With the Beechat Vault tag, we can store 2 post-quantum keypairs, or 256 Bitcoin/Ethereum private keys protected with AES-128.
+The idea arose as we needed a low-cost way to store many private keys, securely. Our post-quantum private keys are very large (>1KiB) so we couldn't use common tags on the market (such as NTAG213). With the Beechat Vault tag, we can store 2 post-quantum keypairs, or 256 Bitcoin/Ethereum private keys protected with AES-256.
 
 
 [Access Beechat Vault datasheet](https://github.com/BeechatNetworkSystemsLtd/BeechatVault/raw/main/NA_V2_P/Beechat_Vault-NA_V2_P-Specification_sheet.pdf)
@@ -30,14 +30,14 @@ Feature Name | Value |
 
 __Versions__
 * NA_V2_P: Version 2.0, without protection capacitance and smallest size
-* NA_V4_N: Version 3.0, includes larger antenna and protection capacitance
+* NA_V4_N: Version 4.0, includes larger antenna and protection capacitance
 
 
 Image
 -------------------
 ![image](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatVault/main/NA_V4_N/NA_V4_render.png)
 ![image](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatVault/main/NA_V4_N/NA_V4_production_files/picture.png)
-_Beechat Vault Revision NA_V3_N pictured above_
+_Beechat Vault Revision NA_V4_N pictured above_
 
 License Information
 -------------------
